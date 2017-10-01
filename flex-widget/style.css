@@ -1,0 +1,20 @@
+body {
+	color: white;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.box {
+	padding: 2em 3em;
+	background-color:  red;
+	flex-basis: 100px;
+	flex-grow: 1;
+
+}
+
+.middle {
+	background-color: coral;
+}
